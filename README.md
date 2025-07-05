@@ -29,6 +29,11 @@ composer install
 cp .env.example .env
 touch database/database.sqlite
 ```
+### Update .env
+
+```bash
+APP_URL
+```
 
 ### Run migrations
 
